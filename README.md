@@ -4,7 +4,6 @@
 <p align = 'center'>
 Kuliah Statistik, Kerja Finance, Kegiatan Nulis, Hobi Ngulik data.
 
-  Emang gak jelas hidup ni..
-
+Emang gak jelas hidup ni..
 
 </p>
